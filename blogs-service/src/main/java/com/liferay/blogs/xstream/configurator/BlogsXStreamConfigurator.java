@@ -12,7 +12,7 @@
  * details.
  */
 
-package com.liferay.blogs.exportimport.xstream.configurator;
+package com.liferay.blogs.xstream.configurator;
 
 import com.liferay.exportimport.kernel.xstream.XStreamAlias;
 import com.liferay.exportimport.kernel.xstream.XStreamConverter;
